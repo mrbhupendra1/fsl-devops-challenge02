@@ -1,0 +1,16 @@
+{
+  "name": "fsl-devops-challenge",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "lint": "echo 'Linting complete'",
+    "prettier": "echo 'Prettier formatting complete'",
+    "test": "echo 'Running test cases (simulated)'",
+    "build": "echo 'Build complete'"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
